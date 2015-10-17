@@ -1,2 +1,2 @@
 # java-dev
-Java for development with JRebel
+Java for development with JRebel.
